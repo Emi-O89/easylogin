@@ -1,0 +1,1 @@
+package jp.co.internous.easylogin.model.domain;
